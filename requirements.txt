@@ -4,3 +4,4 @@ numpy
 scikit-learn==1.2.2
 plotly
 requests
+xgboost==1.7.4
